@@ -1,0 +1,3 @@
+type HTTPHandller interface{
+	
+}

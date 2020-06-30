@@ -1,0 +1,7 @@
+page:
+    title: "Hello World"
+    content: "This is a test webpage"
+server:
+    provider: "ppe"
+    host: "127.0.0.1"
+    port: 6210
